@@ -7,4 +7,5 @@ cmake -S . -B build
 cd build
 make
 make test
+build/app/sample_project_app
 ```
